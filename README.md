@@ -23,7 +23,7 @@ Projeto desenvolvido durante o curso **"Bootstrap 5: Novos recursos e práticas 
 
 ## 📁 Acesso ao projeto
 
-- 🔗 [Visualizar projeto online](https://seu-link-do-vercel-aqui.com)
+- 🔗 [Visualizar projeto online](https://serenatto-cafe-rho.vercel.app/)
 - 💻 [Acessar código-fonte no GitHub](https://github.com/adrianodev83/serenatto-cafe)
 
 ## 🎯 O que aprendi neste projeto
@@ -63,7 +63,7 @@ Project developed during the course **"Bootstrap 5: New Features and Best Practi
 
 ## 📁 Access the project
 
-- 🔗 [View live project](https://seu-link-do-vercel-aqui.com)
+- 🔗 [View live project](https://serenatto-cafe-rho.vercel.app/)
 - 💻 [Access the source code on GitHub](https://github.com/adrianodev83/serenatto-cafe)
 
 ## 🎯 What I learned in this project
